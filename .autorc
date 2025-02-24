@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "tide-e",
+  "repo": "container-ut8rylu",
+  "name": "tide-e",
+  "email": "tide_e@live.com",
+}
